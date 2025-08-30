@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-pptx
+pydantic
+python-dotenv
+google-generativeai
+openai
+anthropic
+python-multipart
